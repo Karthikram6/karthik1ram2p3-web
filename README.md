@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Karthik Ram Banner"/>
+  <img src="./bannerr.png" width="100%" alt="Karthik Ram Banner"/>
 </p>
 <p align="center">
 
